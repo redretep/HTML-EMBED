@@ -20,3 +20,14 @@ iframe {
 <iframe src="https://web.polymodloader.com" allowfullscreen></iframe>
 </body>
 </html>
+
+```<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://www.example.com/new-page.html">
+</head>
+<body>
+    <p>You are being redirected...</p>
+</body>
+</html>
